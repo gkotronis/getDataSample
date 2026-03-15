@@ -2,7 +2,7 @@
 class Database{
  
     public function getConnection(){
-        $servername = "www.zenswimmer.com";
+        $servername = "****";
         $dbname = "****";
         $username = "****";
         $password = "****";
